@@ -813,6 +813,7 @@ export interface ApiPlatformPlatform extends Schema.CollectionType {
     singularName: 'platform';
     pluralName: 'platforms';
     displayName: 'platform';
+    description: '';
   };
   options: {
     draftAndPublish: false;

@@ -22,6 +22,7 @@
     "@strapi/strapi": "4.15.5",
     "jsdom": "^23.0.1",
     "pg": "8.8.0",
+    "qs": "^6.11.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",

@@ -4,7 +4,8 @@
   "info": {
     "singularName": "platform",
     "pluralName": "platforms",
-    "displayName": "platform"
+    "displayName": "platform",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
