@@ -21,6 +21,7 @@
     "@strapi/plugin-users-permissions": "4.15.5",
     "@strapi/provider-email-nodemailer": "^4.17.0",
     "@strapi/strapi": "4.15.5",
+    "better-sqlite3": "^9.3.0",
     "jsdom": "^23.0.1",
     "pg": "8.8.0",
     "qs": "^6.11.2",
