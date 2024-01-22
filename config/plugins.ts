@@ -1,15 +1,11 @@
-module.exports = {
-  email: {
+export default ({ env }) => ({
+  upload: {
     config: {
-      provider: "nodemailer",
       providerOptions: {
-        host: "localhost",
-        port: 1025,
-        ignoreTLS: true,
-      },
-      settings: {
-        defaultFrom: "email@strapi.mydomain.com",
+        localServer: {
+          maxage: 300000,
+        },
       },
     },
   },
-};
+});
